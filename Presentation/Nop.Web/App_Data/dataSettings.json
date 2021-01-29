@@ -1,0 +1,5 @@
+﻿{
+  "DataConnectionString": "Server=localhost;Port=3307;Database=nopcomm;Uid=alaa;Pwd=test;AllowUserVariables=true",
+  "DataProvider": "mysql",
+  "RawDataSettings": {}
+}
